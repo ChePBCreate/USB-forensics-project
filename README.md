@@ -43,27 +43,27 @@ Recovery success: 100%
 ## Screenshots
 All screenshots are located in the '/screenshots' folder.
 
-screenshot1.jpg: shared folder creation on host system
-screenshot2.jpg: Gnome Disks image creation
-screenshot3.jpg: Image formatting
-screenshot4.jpg: Partition creation
-screenshot5.jpg: Image mount on host machine
-screenshot6.jpg: Adding files onto image disk
-screenshot7.jpg: Deleted files off image disk (john-doe-id.webp, Passwords text file)
-screenshot8.jpg: Loaded shared file onto Kali
-screenshot9.jpg: Set up Shared folder and verfied image mount
-screenshot10.jpg: Copied image and verified copied image
-screenshot11.jpg: Loaded Autopsy
-screenshot12.jpg: Created new case
-screenshot13.jpg: Added new image to case
-screenshot14.jpg: Added basic host details
-screenshot15.jpg: Selected file system details
-screenshot16.jpg: Loaded image onto Autopsy for analysis
-screenshot17.jpg: Image file contents showing deleted files
-screenshot18.jpg: Contents of /.Trash-1000 folder
-screenshot19.jpg: Extraction of john-doe-id.webp image via Extract function
-screenshot20.jpg: Extraction of Passwords text file via Extract function
-screenshot21.jpg: Recovered files shown in Downloads folder
+-screenshot1.jpg: shared folder creation on host system
+-screenshot2.jpg: Gnome Disks image creation
+-screenshot3.jpg: Image formatting
+-screenshot4.jpg: Partition creation
+-screenshot5.jpg: Image mount on host machine
+-screenshot6.jpg: Adding files onto image disk
+-screenshot7.jpg: Deleted files off image disk (john-doe-id.webp, Passwords text file)
+-screenshot8.jpg: Loaded shared file onto Kali
+-screenshot9.jpg: Set up Shared folder and verfied image mount
+-screenshot10.jpg: Copied image and verified copied image
+-screenshot11.jpg: Loaded Autopsy
+-screenshot12.jpg: Created new case
+-screenshot13.jpg: Added new image to case
+-screenshot14.jpg: Added basic host details
+-screenshot15.jpg: Selected file system details
+-screenshot16.jpg: Loaded image onto Autopsy for analysis
+-screenshot17.jpg: Image file contents showing deleted files
+-screenshot18.jpg: Contents of /.Trash-1000 folder
+-screenshot19.jpg: Extraction of john-doe-id.webp image via Extract function
+-screenshot20.jpg: Extraction of Passwords text file via Extract function
+-screenshot21.jpg: Recovered files shown in Downloads folder
 
 ## Skills Demonstrated:
 - Beginner digital forensics methodology
